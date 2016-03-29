@@ -1,6 +1,8 @@
 # Payroll-c
 App to enter employee wage/hour/OT info and make a report file
 
+Adapted from a ULCA Applications Programming Certificate project. 
+
 Defined constants for overtime hour threshold and overtime pay rate.
 
 User inputs employee name, wages and hours. 
